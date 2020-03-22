@@ -6,7 +6,7 @@
     margin: 0px auto;
     padding: 50px 0px;
     border-bottom: 1px ridge;
-    min-height: 400px;
+    min-height: 300px;
   }
   .footer {
     background-color: #62D6F1;
@@ -37,4 +37,34 @@
 }
 .skil {
   list-style: none;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+ 
+  background-color: black;
+ 
+ 
+}
+.carousel .carousel-item {
+  height: 600px;
+  width: 600px;
+
+}
+.carousel .carousel-item img {
+  position: absolute;
+  margin: auto;
+  display: block;
+  
+}
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
+}
+.carousel       
+{
+  width: 520px;
+  height: 400px;
+  align-content: center;
 }
