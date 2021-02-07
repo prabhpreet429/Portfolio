@@ -9,20 +9,25 @@
     min-height: 300px;
   }
   .footer {
-    background-color: #62D6F1;
+    background-color: #20C0B8;
     margin: 0px auto;
     padding: 20px 0px;
   }
   .jumbotron {
     margin: 0px auto;
     padding: 70px 30px;
-    background: #1A8AA5;
+    background: #067E78;
     color: floralwhite;
   }
   address {
-    font-size: 80%;
+    font-size: 100%;
     margin: 0px;
     color: #0f0f0f;
+  }
+  a {
+    color: #036A64;
+    background-color: transparent;
+    text-decoration: none;
   }
   body {
     z-index: 0;
