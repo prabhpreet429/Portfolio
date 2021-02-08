@@ -8,6 +8,11 @@
     border-bottom: 1px ridge;
     min-height: 300px;
   }
+  a {
+    color: #036A64;
+    background-color: transparent;
+    text-decoration: none;
+  }
   .footer {
     background-color: #20C0B8;
     margin: 0px auto;
